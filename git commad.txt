@@ -12,3 +12,4 @@ git branch -M master  --> change branch
 git status --> check status
 git push -f origin rehman:main --> merge
 git checkout -b "branch name" --> new branch
+git clone --> access git repositry
