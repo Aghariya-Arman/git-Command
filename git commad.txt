@@ -13,3 +13,5 @@ git status --> check status
 git push -f origin rehman:main --> merge
 git checkout -b "branch name" --> new branch
 git clone --> access git repositry
+git checkout <branch name> --> change branch
+git branch --> check branch
